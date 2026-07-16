@@ -18,6 +18,8 @@ This folder contains my HTML practice projects and exercises as part of my Web D
 - Checkboxes
 - Select & Option
 - Textarea
+- File Upload
+- Hidden Fields
 
 ## Projects
 
@@ -25,3 +27,5 @@ This folder contains my HTML practice projects and exercises as part of my Web D
 - HTML Forms Practice (`forms.html`)
 - Select Field Practice (`select.html`)
 - Textarea Practice (`textarea.html`)
+- File Upload Practice (`file-upload.html`)
+- Hidden Field Practice (`hidden-field.html`)
