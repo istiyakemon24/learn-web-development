@@ -17,9 +17,11 @@ This folder contains my HTML practice projects and exercises as part of my Web D
 - Radio Buttons
 - Checkboxes
 - Select & Option
+- Textarea
 
 ## Projects
 
 - Portfolio Page (`index.html`)
 - HTML Forms Practice (`forms.html`)
 - Select Field Practice (`select.html`)
+- Textarea Practice (`textarea.html`)
