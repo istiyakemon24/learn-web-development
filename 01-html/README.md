@@ -1,25 +1,38 @@
-# HTML
+# HTML Learning Journey
 
-This folder contains my HTML practice and mini projects.
+This folder contains my HTML practice projects and exercises as part of my Web Development learning roadmap.
 
 ## Topics Covered
 
 - HTML Document Structure
+- Semantic HTML
 - Headings
 - Paragraphs
 - Lists
 - Links
 - Images
-- Semantic HTML
 - Forms
 - Labels
 - Input Attributes
-- Accessibility Basics
+- Radio Buttons
+- Checkboxes
 
-## Project
+## Projects
 
-- Portfolio Page
+### 1. Portfolio Page
+**File:** `index.html`
 
-## Status
+A simple portfolio page created using semantic HTML.
 
-✅ Completed
+### 2. HTML Forms Practice
+**File:** `forms.html`
+
+Practice project covering:
+
+- Text Input
+- Email Input
+- Radio Buttons
+- Checkboxes
+- Labels
+- Required Fields
+- Form Submission
