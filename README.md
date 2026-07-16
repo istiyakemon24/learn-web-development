@@ -17,3 +17,9 @@ My goal is to become a professional WordPress Plugin Developer by building a str
 ## Current Progress
 
 - ✅ HTML Basics Completed
+
+## Repository Structure
+
+learn-web-development/
+├── README.md
+└── 01-html/

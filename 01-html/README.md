@@ -19,3 +19,7 @@ This folder contains my HTML practice and mini projects.
 ## Project
 
 - Portfolio Page
+
+## Status
+
+✅ Completed
