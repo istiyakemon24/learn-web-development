@@ -31,6 +31,7 @@
 - Readonly Attribute
 - Disabled Attribute
 - Multiple File Upload
+- Table Sections (`<thead>`, `<tbody>`)
 
 ---
 
@@ -44,6 +45,7 @@
 - `file-upload.html` - File Upload Form
 - `hidden-field.html` - Hidden Input Practice
 - `advanced-inputs.html` - Readonly, Disabled & Multiple File Upload
+- `table.html` - HTML Table Practice
 
 ---
 
