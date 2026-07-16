@@ -1,31 +1,54 @@
-# HTML Learning Journey
-
-This folder contains my HTML practice projects and exercises as part of my Web Development learning roadmap.
+# HTML Learning
 
 ## Topics Covered
 
 - HTML Document Structure
-- Semantic HTML
 - Headings
 - Paragraphs
-- Lists
+- Line Break (`<br>`)
+- Horizontal Rule (`<hr>`)
+- Strong vs Bold
+- Ordered List
+- Unordered List
 - Links
 - Images
+- Semantic HTML
 - Forms
 - Labels
-- Input Attributes
+- Input Types
+- `id` Attribute
+- `name` Attribute
+- `value` Attribute
+- `placeholder`
+- `required`
 - Radio Buttons
 - Checkboxes
-- Select & Option
+- Select Dropdown
+- Option Tag
 - Textarea
 - File Upload
 - Hidden Fields
+- Readonly Attribute
+- Disabled Attribute
+- Multiple File Upload
 
-## Projects
+---
 
-- Portfolio Page (`index.html`)
-- HTML Forms Practice (`forms.html`)
-- Select Field Practice (`select.html`)
-- Textarea Practice (`textarea.html`)
-- File Upload Practice (`file-upload.html`)
-- Hidden Field Practice (`hidden-field.html`)
+## Practice Files
+
+- `index.html` - HTML Basics
+- `portfolio.html` - Portfolio Layout
+- `forms.html` - Basic Form
+- `select-field.html` - Select & Option Practice
+- `textarea.html` - Textarea Practice
+- `file-upload.html` - File Upload Form
+- `hidden-field.html` - Hidden Input Practice
+- `advanced-inputs.html` - Readonly, Disabled & Multiple File Upload
+
+---
+
+## Status
+
+✅ HTML Basics Completed
+
+🔄 Next Topic: HTML Tables
