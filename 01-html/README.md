@@ -16,23 +16,10 @@ This folder contains my HTML practice projects and exercises as part of my Web D
 - Input Attributes
 - Radio Buttons
 - Checkboxes
+- Select & Option
 
 ## Projects
 
-### 1. Portfolio Page
-**File:** `index.html`
-
-A simple portfolio page created using semantic HTML.
-
-### 2. HTML Forms Practice
-**File:** `forms.html`
-
-Practice project covering:
-
-- Text Input
-- Email Input
-- Radio Buttons
-- Checkboxes
-- Labels
-- Required Fields
-- Form Submission
+- Portfolio Page (`index.html`)
+- HTML Forms Practice (`forms.html`)
+- Select Field Practice (`select.html`)
