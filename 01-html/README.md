@@ -1,62 +1,107 @@
-# HTML Learning
+# HTML Fundamentals
+
+This folder contains my HTML practice files as part of my Web Development learning journey.
 
 ## Topics Covered
 
+### HTML Basics
 - HTML Document Structure
 - Headings
 - Paragraphs
 - Line Break (`<br>`)
 - Horizontal Rule (`<hr>`)
-- Strong vs Bold
-- Ordered List
-- Unordered List
-- Links
-- Images
-- Semantic HTML
-- Forms
-- Labels
-- Input Types
-- `id` Attribute
-- `name` Attribute
-- `value` Attribute
+- Text Formatting (`<strong>`, `<em>`, `<b>`)
+- Links (`<a>`)
+- Images (`<img>`)
+- Lists (`<ul>`, `<ol>`, `<li>`)
+
+### Semantic HTML
+- `<header>`
+- `<nav>`
+- `<main>`
+- `<section>`
+- `<article>`
+- `<aside>`
+- `<footer>`
+
+### HTML Forms
+- `<form>`
+- `<label>`
+- `<input>`
+- `id`
+- `name`
+- `type`
 - `placeholder`
 - `required`
+- `value`
+
+### Input Types
+- Text
+- Email
 - Radio Buttons
 - Checkboxes
-- Select Dropdown
-- Option Tag
-- Textarea
 - File Upload
-- Hidden Fields
-- Readonly Attribute
-- Disabled Attribute
-- Multiple File Upload
-- Table Sections (`<thead>`, `<tbody>`)
-### Tables
-- Basic Tables
+- Hidden Input
+
+### Form Attributes
+- `readonly`
+- `disabled`
+- `multiple`
+- `accept`
+- `enctype="multipart/form-data"`
+
+### Select & Textarea
+- `<select>`
+- `<option>`
+- `<textarea>`
+
+### HTML Tables
+- `<table>`
 - `<thead>`
 - `<tbody>`
 - `<tfoot>`
+- `<tr>`
+- `<th>`
+- `<td>`
 - `colspan`
+- `rowspan`
 
 ---
 
 ## Practice Files
 
 - `index.html` - HTML Basics
-- `portfolio.html` - Portfolio Layout
-- `forms.html` - Basic Form
-- `select-field.html` - Select & Option Practice
-- `textarea.html` - Textarea Practice
-- `file-upload.html` - File Upload Form
-- `hidden-field.html` - Hidden Input Practice
+- `portfolio.html` - Simple Portfolio Page
+- `form.html` - HTML Form Practice
+- `select-field.html` - Select Dropdown
+- `profile-upload-form.html` - File Upload Form
+- `newsletter-form.html` - Hidden Input Practice
 - `advanced-inputs.html` - Readonly, Disabled & Multiple File Upload
-- `table.html` - HTML Table Practice
+- `table.html` - Basic HTML Table
+- `table-advanced.html` - Tables with `thead`, `tbody`, `tfoot` and `colspan`
+- `table-rowspan.html` - Table using `rowspan`
 
 ---
 
-## Status
+## Learning Goals
 
-✅ HTML Basics Completed
+- Build semantic HTML pages
+- Create professional HTML forms
+- Understand HTML table structure
+- Build a strong foundation for CSS
+- Prepare for PHP and WordPress Plugin Development
 
-🔄 Next Topic: HTML Tables
+---
+
+## Repository
+
+Part of the **Learn Web Development** repository.
+
+Learning Path:
+
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP
+5. WordPress
+6. WordPress Plugin Development
