@@ -4,7 +4,12 @@ This folder contains my CSS practice files as part of my Web Development learnin
 
 ## Topics Covered
 
-- Coming Soon...
+- What is CSS
+- External CSS
+- Linking CSS with HTML
+- Basic Selectors
+- CSS Syntax
+- Colors
 
 ## Practice Files
 
@@ -14,5 +19,7 @@ This folder contains my CSS practice files as part of my Web Development learnin
 ## Learning Goals
 
 - Learn CSS fundamentals
-- Build responsive layouts
-- Prepare for WordPress theme and plugin UI development
+- Understand CSS selectors
+- Style HTML elements
+- Prepare for responsive web design
+- Build UI for WordPress themes and plugins
