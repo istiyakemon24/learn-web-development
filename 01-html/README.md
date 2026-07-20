@@ -32,6 +32,12 @@
 - Disabled Attribute
 - Multiple File Upload
 - Table Sections (`<thead>`, `<tbody>`)
+### Tables
+- Basic Tables
+- `<thead>`
+- `<tbody>`
+- `<tfoot>`
+- `colspan`
 
 ---
 
