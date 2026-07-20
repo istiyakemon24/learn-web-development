@@ -10,7 +10,9 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Element Selectors
 - Class Selectors
 - ID Selectors
-- Basic Colors
+- Group Selectors
+- Universal Selector
+- CSS Colors (Color Names & HEX)
 
 ## Practice Files
 
@@ -18,6 +20,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - style.css
 - selectors.html
 - selectors.css
+- colors.html
+- colors.css
 
 ## Learning Goals
 

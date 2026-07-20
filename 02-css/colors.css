@@ -1,0 +1,20 @@
+h1{
+    color:#0000FF;
+}
+p{
+    color: green;
+}
+button{
+    background-color: #000000;
+    color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 10px 25px;
+    font-size: 16px;
+    font-weight: 600;
+}
+button:hover{
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #ddd;
+}
