@@ -6,15 +6,18 @@ This folder contains my CSS practice files as part of my Web Development learnin
 
 - What is CSS
 - External CSS
-- Linking CSS with HTML
-- Basic Selectors
 - CSS Syntax
-- Colors
+- Element Selectors
+- Class Selectors
+- ID Selectors
+- Basic Colors
 
 ## Practice Files
 
 - index.html
 - style.css
+- selectors.html
+- selectors.css
 
 ## Learning Goals
 
