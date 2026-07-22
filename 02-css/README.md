@@ -14,6 +14,7 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Universal Selector
 - CSS Colors
 - Background Color
+- Background Image
 
 ## Practice Files
 
@@ -25,6 +26,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - colors.css
 - background.html
 - background.css
+- background-image.html
+- background-image.css
 
 ## Learning Goals
 
