@@ -15,6 +15,7 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - CSS Colors
 - Background Color
 - Background Image
+- Background Repeat
 
 ## Practice Files
 
@@ -28,6 +29,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - background.css
 - background-image.html
 - background-image.css
+- repeat-demo.html
+- repeat-demo.css
 
 ## Learning Goals
 

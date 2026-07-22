@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.banner{
+    background-image: url('images/hero.jpg');
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
