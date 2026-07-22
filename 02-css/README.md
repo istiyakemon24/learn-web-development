@@ -21,6 +21,9 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - background-size: contain
 - background-size: auto
 - Background Shorthand
+- CSS Box Model
+- Width
+- Height
 
 ## Practice Files
 
@@ -40,6 +43,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - background-size.css
 - background-shorthand.html
 - background-shorthand.css
+- box-model.html
+- box-model.css
 
 ## Learning Goals
 
