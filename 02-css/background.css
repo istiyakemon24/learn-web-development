@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    background-color: #0000FF;
+    color: #FFFFFF;
+}
+p{
+    background-color: #f5f5f5;
+}
+button{
+    background-color: #008000;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+button:hover{
+    background-color: #000000;
+    color: #FFFFFF;
+}
