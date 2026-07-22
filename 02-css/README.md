@@ -16,6 +16,10 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Background Color
 - Background Image
 - Background Repeat
+- Background Size
+- background-size: cover
+- background-size: contain
+- background-size: auto
 
 ## Practice Files
 
@@ -31,6 +35,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - background-image.css
 - repeat-demo.html
 - repeat-demo.css
+- background-size.html
+- background-size.css
 
 ## Learning Goals
 
