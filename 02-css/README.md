@@ -20,6 +20,7 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - background-size: cover
 - background-size: contain
 - background-size: auto
+- Background Shorthand
 
 ## Practice Files
 
@@ -37,6 +38,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - repeat-demo.css
 - background-size.html
 - background-size.css
+- background-shorthand.html
+- background-shorthand.css
 
 ## Learning Goals
 
