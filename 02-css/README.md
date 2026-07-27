@@ -24,6 +24,9 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - CSS Box Model
 - Width
 - Height
+- Border
+- Border Styles
+- Border Radius
 
 ## Practice Files
 

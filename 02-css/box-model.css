@@ -7,6 +7,28 @@
     height: 200px;
     background-color: lightblue;
     border: 2px solid blue;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 40px;
+}
+.btn{
+    padding: 12px 24px;
+    background: blue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.avatar{
+    width: 150px;
+    height: 150px;
+    background: gray;
+    border-radius: 50%;
+}
+.box-2{
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+    border: 4px double blue;
     padding: 20px;
     margin: 40px;
 }
