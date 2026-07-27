@@ -27,6 +27,9 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Border
 - Border Styles
 - Border Radius
+- Box Sizing
+- box-sizing: content-box
+- box-sizing: border-box
 
 ## Practice Files
 
