@@ -35,6 +35,12 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Font Family
 - Font Fallback
 - Font Weight
+- Font Style
+- Line Height
+- Letter Spacing
+- Text Align
+- Text Transform
+- Text Decoration
 
 ## Practice Files
 
