@@ -1,16 +1,19 @@
 h1{
     font-size: 48px;
     font-family: Arial, sans-serif;
+    font-weight: 700;
 }
 h2{
     font-size: 32px;
     font-family:Georgia, serif;
+    font-weight: 600;
 }
 p{
     font-size: 18px;
-    font-family: verdana, sans-serif;
+    font-family: Verdana, sans-serif;
+    font-weight: 400;
 }
-small{
-    font-size: 14px;
-    font-family: "Courier New", monospace;
+button{
+    font-size: 16px;
+    font-weight: 500;
 }
