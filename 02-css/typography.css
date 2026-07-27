@@ -1,12 +1,16 @@
 h1{
     font-size: 48px;
+    font-family: Arial, sans-serif;
 }
 h2{
     font-size: 32px;
+    font-family:Georgia, serif;
 }
 p{
     font-size: 18px;
+    font-family: verdana, sans-serif;
 }
 small{
     font-size: 14px;
+    font-family: "Courier New", monospace;
 }

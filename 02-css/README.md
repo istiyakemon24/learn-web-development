@@ -32,6 +32,9 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - box-sizing: border-box
 - Typography
 - Font Size
+- Font Family
+- Font Fallback
+
 
 ## Practice Files
 
