@@ -30,6 +30,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Box Sizing
 - box-sizing: content-box
 - box-sizing: border-box
+- Typography
+- Font Size
 
 ## Practice Files
 
@@ -51,6 +53,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - background-shorthand.css
 - box-model.html
 - box-model.css
+- typography.html
+- typography.css
 
 ## Learning Goals
 
