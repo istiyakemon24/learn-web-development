@@ -46,6 +46,12 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Inline Elements
 - Inline Block
 - Display None
+- Position
+- Static
+- Relative
+- Absolute
+- Fixed
+- Sticky
 
 ## Practice Files
 
@@ -71,6 +77,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - typography.css
 - display.html
 - display.css
+- position.html
+- position.css
 
 ## Learning Goals
 

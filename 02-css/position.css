@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 400px;
+    height: 250px;
+    background-color: #f1f1f1;
+    margin: 40px;
+    position: relative;
+}
+
+.box{
+    width: 120px;
+    height: 120px;
+    background-color: steelblue;
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+
+.chat-btn{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background-color: #25D366;
+    color: white;
+    padding: 15px 20px;
+}
