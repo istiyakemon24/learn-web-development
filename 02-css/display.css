@@ -1,0 +1,15 @@
+.tag{
+    display: inline;
+}
+
+.card{
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    background: lightblue;
+    margin: 10px;
+}
+
+.hidden{
+    display: none;
+}

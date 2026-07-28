@@ -41,6 +41,11 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Text Align
 - Text Transform
 - Text Decoration
+- Display
+- Block Elements
+- Inline Elements
+- Inline Block
+- Display None
 
 ## Practice Files
 
@@ -64,6 +69,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - box-model.css
 - typography.html
 - typography.css
+- display.html
+- display.css
 
 ## Learning Goals
 
