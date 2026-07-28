@@ -58,6 +58,13 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Flex Container
 - Flex Item
 - Display Flex
+- Justify Content
+- Flex Start
+- Center
+- Flex End
+- Space Between
+- Space Around
+- Space Evenly
 
 ## Practice Files
 
