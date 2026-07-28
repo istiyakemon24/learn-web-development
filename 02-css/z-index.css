@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.container{
+    position:relative;
+    width:400px;
+    height:300px;
+    margin:50px;
+}
+
+.box{
+    position:absolute;
+    width:150px;
+    height:150px;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.red{
+    background:red;
+    top:20px;
+    left:20px;
+    z-index:1;
+}
+
+.blue{
+    background:blue;
+    top:80px;
+    left:80px;
+    z-index:2;
+}

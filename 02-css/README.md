@@ -52,6 +52,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Absolute
 - Fixed
 - Sticky
+- Z-Index
+- Stacking Order
 
 ## Practice Files
 
@@ -79,6 +81,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - display.css
 - position.html
 - position.css
+- z-index.html
+- z-index.css
 
 ## Learning Goals
 
