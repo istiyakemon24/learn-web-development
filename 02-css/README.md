@@ -54,6 +54,10 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Sticky
 - Z-Index
 - Stacking Order
+- Flexbox Introduction
+- Flex Container
+- Flex Item
+- Display Flex
 
 ## Practice Files
 
@@ -83,6 +87,8 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - position.css
 - z-index.html
 - z-index.css
+- flexbox.html
+- flexbox.css
 
 ## Learning Goals
 
