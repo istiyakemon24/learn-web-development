@@ -65,6 +65,12 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Space Between
 - Space Around
 - Space Evenly
+- Align Items
+- Stretch
+- Flex Start
+- Center
+- Flex End
+- Baseline
 
 ## Practice Files
 
