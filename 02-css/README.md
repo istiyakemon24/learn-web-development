@@ -78,6 +78,10 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Column Reverse
 - Main Axis
 - Cross Axis
+- Gap
+- Row Gap
+- Column Gap
+- Gap Shorthand
 
 ## Practice Files
 
