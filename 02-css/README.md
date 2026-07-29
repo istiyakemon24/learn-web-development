@@ -71,6 +71,13 @@ This folder contains my CSS practice files as part of my Web Development learnin
 - Center
 - Flex End
 - Baseline
+- Flex Direction
+- Row
+- Row Reverse
+- Column
+- Column Reverse
+- Main Axis
+- Cross Axis
 
 ## Practice Files
 
